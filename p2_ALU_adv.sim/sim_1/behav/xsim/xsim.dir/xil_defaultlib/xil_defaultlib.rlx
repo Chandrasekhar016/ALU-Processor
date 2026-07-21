@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/kanik/p2_ALU_adv/p2_ALU_adv.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Users/kanik/p2_ALU_adv/p2_ALU_adv.srcs/sim_1/new/alu_a_tb.v,1783861177,verilog,,,,alu_a_tb,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/kanik/p2_ALU_adv/p2_ALU_adv.srcs/sources_1/new/alu_a.v,1783856634,verilog,,C:/Users/kanik/p2_ALU_adv/p2_ALU_adv.srcs/sim_1/new/alu_a_tb.v,,alu_a,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,

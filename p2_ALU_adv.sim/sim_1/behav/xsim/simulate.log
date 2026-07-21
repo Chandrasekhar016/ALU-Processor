@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+a = 20, b = 77, opcode = 110, res = 21, carry = 0, zero = x, overflow = 0
+$finish called at time : 80 ns : File "C:/Users/kanik/p2_ALU_adv/p2_ALU_adv.srcs/sim_1/new/alu_a_tb.v" Line 83
