@@ -72,19 +72,19 @@ All operations were successfully verified through behavioral simulation.
 
 ### RTL Design
 
-![RTL Design](alu_a.v.png)
+![RTL Design](Pictures/alu_a.png.png)
 
 ### Testbench
 
-![Testbench](alu_a_tb.v.png)
+![Testbench](Pictures/alu_a_tb.png.png)
 
 ### Simulation Waveform
 
-![Waveform](alu_waveform.png)
+![Waveform](Pictures/alu_waveform.png.png)
 
 ### RTL Schematic
 
-![RTL Schematic](alu_schematic.png)
+![RTL Schematic](Pictures/alu_schematic.png.png)
 
 ---
 
